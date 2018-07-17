@@ -1,2 +1,2 @@
 # clk
-Question lists in entry-level math.
+Question lists for entry-level math.

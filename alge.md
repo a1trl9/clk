@@ -5,7 +5,7 @@
 - What is the basis of linear space?
     - Dimension and basis.
 - What is the dimension of a linear (vector) space?
-    - When dimension is n, n number of vectors could present all vectors in the space,
+    - When the dimension of space is n, given n vectors which could present all vectors in the space,
     these vectors construct a basis.
 - What is a change of a basis?
 - What is the definition of linear subspace?
