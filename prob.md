@@ -1,5 +1,13 @@
 # Probability and Mathematical Analysis
 
+## Multi Linear Regression
+
+- What does statistical significance stand for in multi linear regression?
+    - Keep other variables fixed.
+- Is it possible, for variable A, the coefficient is positive in simple linear
+regression, but negative when adding other variables?
+    - Possible, compounding...
+
 ## Analysis of Variance (ANOVA) 
 
 - What is one-way ANOVA?
@@ -15,3 +23,8 @@
 - Type of sum of squares?
     - type I, type III.
     - Why the order of ANOVA matters when data are unbalanced?
+- Why df > 10 is required?
+    - Think about t-student distribution, small df means it requires larger
+    bias for statistical significance.
+    - And usually (not precisely true), smaller data indicates higher variety.
+    So it requires more variety presented to convince the null hypothesis is false.
