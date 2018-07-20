@@ -1,12 +1,17 @@
 # Probability and Mathematical Analysis
 
+## Simple Linear Regression
+- What are definitions of error and residual? What is the difference.
+    - Observed value with true value / estimated value.
+
 ## Multi Linear Regression
 
 - What does statistical significance stand for in multi linear regression?
     - Keep other variables fixed.
 - Is it possible, for variable A, the coefficient is positive in simple linear
-regression, but negative when adding other variables?
+regression, but negative when adding other variables in multi one?
     - Possible, compounding...
+- What is the matrix formulation of OLR?
 
 ## Analysis of Variance (ANOVA) 
 
