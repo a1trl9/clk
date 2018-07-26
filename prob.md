@@ -13,6 +13,15 @@ regression, but negative when adding other variables in multi one?
     - Possible, compounding...
 - What is the matrix formulation of OLR?
 
+## Logistic Regression
+- What is exponential family?
+    - Does binomial distribution belongs to exponential family. In which case it does?
+        - The number of trials is fixed.
+- What is deviance?
+    - What is the relationship between deviance and likelihood ratio?
+    - What is the relationship between deviance and the residual sum of square in
+    normal distribution?
+
 ## Analysis of Variance (ANOVA) 
 
 - What is one-way ANOVA?
